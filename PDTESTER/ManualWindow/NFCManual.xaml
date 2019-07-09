@@ -1,0 +1,165 @@
+﻿<UserControl x:Class="PDTESTER.ManualWindow.NFCManual"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:PDTESTER"
+             mc:Ignorable="d" 
+             d:DesignHeight="800" d:DesignWidth="1280"
+             PreviewKeyDown="UserControl_PreviewKeyDown" PreviewKeyUp="UserControl_PreviewKeyUp">
+    <UserControl.Resources>
+        <local:StateToColorConverter x:Key="StateToColorConverter"/>
+        <local:PinValueToGreenConverter x:Key="PinValueToGreenConverter"/>
+        <local:PinValueToRedConverter x:Key="PinValueToRedConverter"/>
+    </UserControl.Resources>
+    <Grid Background="White">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <ListView Name="NFCGridView" Grid.ColumnSpan="6" Grid.RowSpan="8" BorderThickness="0">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <Border BorderThickness="0,1,0,0" BorderBrush="DarkGray">
+                        <Grid Margin="5">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="Auto"/>
+                                <RowDefinition Height="*"/>
+                            </Grid.RowDefinitions>
+                            <Grid>
+                                <TextBlock Text="{Binding Jig.JigDescription}" FontSize="22" FontWeight="SemiBold"/>
+                            </Grid>
+                            <Grid Grid.Row="1">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="Auto"/>
+                                    <ColumnDefinition Width="Auto"/>
+                                    <ColumnDefinition Width="Auto"/>
+                                    <ColumnDefinition Width="Auto"/>
+                                    <ColumnDefinition Width="Auto"/>
+                                </Grid.ColumnDefinitions>
+                                <TextBlock Text="Pos: " VerticalAlignment="Center" FontSize="22"/>
+                                <TextBox Grid.Column="1" Text="{Binding Jig.JigPos, Mode=TwoWay}" FontSize="22" Width="150" Margin="5,5,5,5"/>
+                                <Button Grid.Column="2" Content="Pack" MouseDoubleClick="Pack_MouseDoubleClick" Width="100" FontSize="16"
+                                         Background="{Binding Path=PackingPin.PinValue, Converter={StaticResource PinValueToGreenConverter}}"
+                                        />
+                                <Button Grid.Column="3" Content="MovePos" MouseDoubleClick="MovePos_DoubleClick" Width="100" FontSize="16"/>
+                                <Button Grid.Column="4" Content="SavePos" MouseDoubleClick="SavePos_DoubleClick" Width="100" FontSize="16"/>
+                            </Grid>
+                        </Grid>
+                    </Border>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+        <Grid Grid.Column="6" Grid.ColumnSpan="2" Grid.RowSpan="4">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid  Background="RoyalBlue" Grid.ColumnSpan="2" Margin="2">
+                <TextBlock Text="Servo Manual" Margin="5" FontSize="20" FontWeight="SemiBold"/>
+            </Grid>
+            <Grid Grid.Row="1" Grid.ColumnSpan="2" Margin="2">
+                <TextBlock Margin="1" FontSize="18" FontWeight="SemiBold">
+                    <Run Text="Axis#3 Pos:"/>
+                    <Run Text="{Binding Path=CurrentPos, Source={x:Static local:Axis._03}}"/>
+                </TextBlock>
+            </Grid>
+            <Button Content="˂" Grid.Row="2" Margin="1" FontSize="18" Name="LeftJog" 
+                    PreviewMouseDown="Button_MouseDown" PreviewMouseUp="Button_MouseUp"/>
+            <Button Content="˂˂" Grid.Row="3" Margin="1" FontSize="18" Name="FLeftJog"
+                    PreviewMouseDown="Button_MouseDown" PreviewMouseUp="Button_MouseUp"/>
+            <Button Content="˃" Grid.Row="2" Grid.Column="1" Margin="1" FontSize="18" Name="RightJog"
+                    PreviewMouseDown="Button_MouseDown" PreviewMouseUp="Button_MouseUp"/>
+            <Button Content="˃˃" Grid.Row="3" Grid.Column="1" Margin="1" FontSize="18" Name="FRightJog"
+                    PreviewMouseDown="Button_MouseDown" PreviewMouseUp="Button_MouseUp"/>
+            <TextBlock Text="Axis#3 Velocity" FontSize="18" Grid.Row="4" FontWeight="SemiBold"/>
+            <TextBox Grid.Row="5" Text="{Binding Axis3Velocity, Mode=TwoWay}" FontSize="18" Margin="5"/>
+            <UniformGrid Columns="4" Grid.Row="6" Grid.ColumnSpan="2" Margin="1">
+                <Button Content="SON" Click="SON_Click" 
+                        Background="{Binding Path=SON, 
+                                     Source={x:Static local:Axis._03}, 
+                                     Converter={StaticResource PinValueToGreenConverter}}"/>
+                <Button Content="ORG" Click="ORG_Click" 
+                        Background="{Binding Path=ORG_OK, 
+                                     Source={x:Static local:Axis._03}, 
+                                     Converter={StaticResource PinValueToGreenConverter}}"/>
+                <Button Content="STOP" Click="STOP_Click"  
+                        Background="{Binding Path=Motioning, 
+                                     Source={x:Static local:Axis._03}, 
+                                     Converter={StaticResource PinValueToRedConverter}}"/>
+                <Button Content="RESET" Click="RESET_Click"
+                        Background="{Binding Path=ALM, 
+                                     Source={x:Static local:Axis._03}, 
+                                     Converter={StaticResource PinValueToRedConverter}}"/>
+            </UniformGrid>
+        </Grid>
+        <Grid Grid.Column="6" Grid.ColumnSpan="2" Grid.RowSpan="3" Grid.Row="4">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid Background="RoyalBlue" Grid.ColumnSpan="2" Margin="2">
+                <TextBlock Text="Gripper Manual" Margin="5" FontSize="20" FontWeight="SemiBold"/>
+            </Grid>
+            <Button Content="Up" Grid.Row="2" Margin="1" FontSize="18"
+                    Click="Lift_03_UpDown_Clicked"
+                    Background="{Binding Path=PinValue, 
+                                 Source={x:Static local:IN.LOADING_03_LIFT_UP_SENSOR},
+                                 Converter={StaticResource StateToColorConverter}}"/>
+            <Button Content="Down" Grid.Row="2" Grid.Column="1" Margin="1" FontSize="18"
+                    Click="Lift_03_UpDown_Clicked"
+                    Background="{Binding Path=PinValue, 
+                                 Source={x:Static local:IN.LOADING_03_LIFT_DOWN_SENSOR},
+                                 Converter={StaticResource StateToColorConverter}}"/>
+            <Button Content="Clamp" Grid.Row="3" Margin="1" FontSize="18"
+                    Click="LOADING_03_CLAMP_Clicked"
+                    Background="{Binding Path=PinValue, 
+                                Source={x:Static local:IN.LOADING_03_CLAMP_SENSOR},
+                                Converter={StaticResource StateToColorConverter}}"/>
+            <Button Content="Unclamp" Grid.Row="3" Grid.Column="1" Margin="1" FontSize="18"
+                    Click="LOADING_03_UNCLAMP_Clicked"
+                    Background="{Binding Path=PinValue, 
+                                Source={x:Static local:IN.LOADING_03_UNCLAMP_SENSOR},
+                                Converter={StaticResource StateToColorConverter}}"/>
+            <!--<Button Content="Turn" Grid.Row="4" Margin="1,10,1,0" FontSize="18"
+                    Background="{Binding Path=LOADING_02_TURN_SENSOR.PinValue, 
+                                Source={x:Static Application.Current},
+                                Converter={StaticResource StateToColorConverter}}"
+                    />-->
+            <!--<Button Content="Return" Grid.Row="5" Grid.Column="1" Margin="1,10,1,0" FontSize="18"/>-->
+        </Grid>
+    </Grid>
+</UserControl>

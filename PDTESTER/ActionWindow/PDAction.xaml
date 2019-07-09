@@ -1,0 +1,81 @@
+﻿<Window x:Class="PDTESTER.ActionWindow.PDAction"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:app="clr-namespace:PDTESTER"
+        mc:Ignorable="d"
+        Title="PDAction" Height="400" Width="720" ShowInTaskbar="True" 
+        ResizeMode="NoResize" WindowStartupLocation="CenterScreen"
+        PreviewKeyDown="Window_PreviewKeyDown" 
+        >
+    <Window.Resources>
+        <app:IsJigEnableConverter x:Key="IsJigEnableConverter"/>
+
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <StackPanel>
+            <TextBlock FontSize="18" FontWeight="Bold">
+                <Run Text="{Binding Jig.JigDescription}"/>
+                <Run Text=" Action Window"/>
+            </TextBlock>
+        </StackPanel>
+        <GroupBox Grid.Row="1">
+            <GroupBox.Header>
+                <TextBlock Text="Test Action"/>
+            </GroupBox.Header>
+            <StackPanel HorizontalAlignment="Center"  Orientation="Horizontal" Margin="5">
+                <Button Content="Reset Power" Click="RSTPW_Clicked" Width="100" Margin="5"/>
+                <Button Content="ResetUCT" Click="RSTUCT_Clicked" Width="100" Margin="5"/>
+                <Button Content="TSON" Click="TSON_Clicked" Width="100" Margin="5"/>
+                <Button Content="TSOF" Click="TSOF_Clicked" Width="100" Margin="5"/>
+                <Button Content="Manual Test" Click="ManualTest_MouseClick" Width="100" Margin="5"/>
+                <Button Content="Abort Test" Click="Abort_MouseClick" Width="100" Margin="5"/>
+            </StackPanel>
+        </GroupBox>
+        <GroupBox Grid.Row="2">
+            <GroupBox.Header>
+                <TextBlock Text="Jig Action"/>
+            </GroupBox.Header>
+            <StackPanel HorizontalAlignment="Center"  Orientation="Horizontal" Margin="5">
+                <Button Content="Clear Set" Click="Clear_Click" VerticalAlignment="Stretch" Width="100" Margin="5"/>
+                <Button Content="Clear Counter" Click="ClearCounter_Clicked" Width="100" Margin="5"/>
+                <Button Content="{Binding Jig.IsJigEnable, Converter={StaticResource IsJigEnableConverter}}" 
+                        Click="Use_Clicked" Width="100" Margin="5"/>
+                <Button Content="Mark FAIL" 
+                        Click="MarkFail_Clicked" Width="100" Margin="5"/>
+                <Button Content="Mark OK" 
+                        Click="MarkOK_Clicked" Width="100" Margin="5"/>
+            </StackPanel>
+        </GroupBox>
+        <GroupBox Grid.Row="3">
+            <GroupBox.Header>
+                <TextBlock Text="Selected Jig"/>
+            </GroupBox.Header>
+            <ListView Name="JigListView" SelectionMode="Multiple" Style="{StaticResource ActionListViewStyle}">
+                <ItemsControl.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <UniformGrid Columns="8"/>
+                    </ItemsPanelTemplate>
+                </ItemsControl.ItemsPanel>
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <Grid Margin="5">
+                            <TextBlock FontWeight="SemiBold" FontSize="16" Text="{Binding Jig.JigDescription}" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                        </Grid>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </GroupBox>
+        <StackPanel Grid.Row="4" HorizontalAlignment="Right">
+            <Button Content="Close" Click="Button_Click" VerticalAlignment="Stretch" Width="100" Margin="5"/>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,20 @@
+﻿PDTESTER
+
+
+winexe
+C#
+.cs
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\obj\Release\
+PDTESTER
+none
+false
+
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\App.xaml
+19-955046342
+2-875027976
+35-138618336
+149-697224080
+ActionWindow\SIMAction.xaml;ActionWindow\NFCBufferAction.xaml;ActionWindow\InputGripperManual.xaml;ActionWindow\LeakAction.xaml;ActionWindow\Buffer01Action.xaml;ActionWindow\TVOCAction.xaml;ActionWindow\NFCAction.xaml;ActionWindow\PDAction.xaml;AlarmWindow.xaml;Auto.xaml;IOMonitor.xaml;MainWindow.xaml;Manual.xaml;ManualWindow\FreeMode.xaml;ManualWindow\LEAKManual.xaml;ManualWindow\NFCManual.xaml;ManualWindow\PDManual.xaml;ManualWindow\TVOCManual.xaml;ManualWindow\SerialSetting.xaml;
+
+False
+

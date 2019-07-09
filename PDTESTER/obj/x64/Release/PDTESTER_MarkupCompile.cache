@@ -1,0 +1,20 @@
+﻿PDTESTER
+
+
+winexe
+C#
+.cs
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\obj\x64\Release\
+PDTESTER
+none
+false
+TRACE
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\App.xaml
+141276934349
+2-1769882360
+29-1234750512
+146-630705266
+ActionWindow\InputGripperManual.xaml;ActionWindow\LeakAction.xaml;ActionWindow\TVOCAction.xaml;ActionWindow\NFCAction.xaml;ActionWindow\PDAction.xaml;Auto.xaml;IOMonitor.xaml;MainWindow.xaml;Manual.xaml;ManualWindow\LEAKManual.xaml;ManualWindow\NFCManual.xaml;ManualWindow\PDManual.xaml;ManualWindow\TVOCManual.xaml;SerialSetting.xaml;
+
+True
+

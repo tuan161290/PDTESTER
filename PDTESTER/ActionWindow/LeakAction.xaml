@@ -1,0 +1,68 @@
+﻿<Window x:Class="PDTESTER.ActionWindow.LeakAction"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PDTESTER.ActionWindow"
+        xmlns:app="clr-namespace:PDTESTER"
+        mc:Ignorable="d"
+        Title="LeakAction" Height="400" Width="720" ShowInTaskbar="False" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Window.Resources>
+        <app:IsJigEnableConverter x:Key="IsSetEnableConverter"/>
+    </Window.Resources>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <StackPanel>
+            <TextBlock Text="Leak Action Window" FontSize="18" FontWeight="Bold"/>
+        </StackPanel>
+        <GroupBox Grid.Row="1">
+            <GroupBox.Header>
+                <TextBlock Text="Test Action"/>
+            </GroupBox.Header>
+            <StackPanel HorizontalAlignment="Center"  Orientation="Horizontal" Margin="5">
+                <!--<Button Content="Abort/MarkNG" MouseDoubleClick="Abort_MouseDoubleClick" VerticalAlignment="Stretch" Width="100" Margin="10"/>-->
+                <Button Name="ManualButton" Content="Manual Test" Click="ManualTest_MouseClick" VerticalAlignment="Stretch" Width="100" Margin="10"/>
+                <Button Name="AbortButton" Content="Abort Test" Click="AbortTest_MouseClick" VerticalAlignment="Stretch" Width="100" Margin="10"/>
+            </StackPanel>
+        </GroupBox>
+        <GroupBox Grid.Row="2">
+            <GroupBox.Header>
+                <TextBlock Text="Jig Action"/>
+            </GroupBox.Header>
+            <StackPanel HorizontalAlignment="Center"  Orientation="Horizontal" Margin="5">
+                <Button Content="Clear Set" Click="Clear_MouseClick" VerticalAlignment="Stretch" Width="100" Margin="10"/>
+                <Button Content="{Binding Jig.IsJigEnable, Converter={StaticResource IsSetEnableConverter}}" Click="Use_Cliked" VerticalAlignment="Stretch" Width="100" Margin="10"/>
+                <Button Content="Clear Counter" Click="ClearCounter_Cliked" VerticalAlignment="Stretch" Width="100" Margin="10"/>
+            </StackPanel>
+        </GroupBox>
+        <GroupBox Grid.Row="3">
+            <GroupBox.Header>
+                <TextBlock Text="Selected Jig"/>
+            </GroupBox.Header>
+            <ListView Name="LeakListView" SelectionMode="Multiple" Style="{StaticResource ActionListViewStyle}">
+                <ItemsControl.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <UniformGrid Columns="8"/>
+                    </ItemsPanelTemplate>
+                </ItemsControl.ItemsPanel>
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <Grid Margin="5">
+                            <TextBlock FontWeight="SemiBold" FontSize="16" Text="{Binding Jig.JigDescription}" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                        </Grid>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </GroupBox>
+        <StackPanel Grid.Row="4" HorizontalAlignment="Right">
+            <Button Content="Close" Click="Button_Click" VerticalAlignment="Stretch" Width="100" Margin="5"/>
+        </StackPanel>
+    </Grid>
+</Window>

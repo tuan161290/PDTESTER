@@ -1,0 +1,801 @@
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\x86\e_sqlite3.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\x64\e_sqlite3.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\PDTESTER.exe.config
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\PDTESTER.exe.manifest
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\PDTESTER.application
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\PDTESTER.exe
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\PDTESTER.pdb
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\Microsoft.Win32.Primitives.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\netstandard.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.AppContext.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Collections.Concurrent.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Collections.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Collections.NonGeneric.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Collections.Specialized.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.ComponentModel.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.ComponentModel.EventBasedAsync.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.ComponentModel.Primitives.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.ComponentModel.TypeConverter.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Console.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Data.Common.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Diagnostics.Contracts.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Diagnostics.Debug.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Diagnostics.Process.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Diagnostics.StackTrace.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Diagnostics.Tools.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Diagnostics.TraceSource.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Diagnostics.Tracing.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Drawing.Primitives.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Dynamic.Runtime.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Globalization.Calendars.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Globalization.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Globalization.Extensions.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.IO.Compression.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.IO.Compression.ZipFile.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.IO.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.IO.FileSystem.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.IO.FileSystem.DriveInfo.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.IO.FileSystem.Watcher.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.IO.IsolatedStorage.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.IO.MemoryMappedFiles.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.IO.Pipes.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.IO.UnmanagedMemoryStream.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Linq.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Linq.Expressions.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Linq.Parallel.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Linq.Queryable.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Net.Http.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Net.NameResolution.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Net.NetworkInformation.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Net.Ping.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Net.Primitives.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Net.Requests.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Net.Security.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Net.Sockets.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Net.WebHeaderCollection.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Net.WebSockets.Client.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Net.WebSockets.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.ObjectModel.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Reflection.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Reflection.Extensions.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Reflection.Primitives.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Resources.Reader.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Resources.ResourceManager.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Resources.Writer.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Runtime.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Runtime.Extensions.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Runtime.Handles.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Runtime.InteropServices.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Runtime.Numerics.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Runtime.Serialization.Formatters.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Runtime.Serialization.Json.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Runtime.Serialization.Primitives.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Runtime.Serialization.Xml.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Security.Claims.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Security.Cryptography.Csp.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Security.Principal.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Security.SecureString.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Text.Encoding.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Text.Encoding.Extensions.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Text.RegularExpressions.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Threading.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Threading.Overlapped.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Threading.Tasks.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Threading.Tasks.Parallel.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Threading.Thread.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Threading.ThreadPool.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Threading.Timer.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.ValueTuple.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Xml.ReaderWriter.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Xml.XDocument.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Xml.XmlDocument.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Xml.XmlSerializer.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Xml.XPath.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Xml.XPath.XDocument.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\Microsoft.Data.Sqlite.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\Microsoft.Extensions.Logging.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\Microsoft.Extensions.Options.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\Newtonsoft.Json.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\Remotion.Linq.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\SQLitePCLRaw.batteries_green.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\SQLitePCLRaw.batteries_v2.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\SQLitePCLRaw.core.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Collections.Immutable.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.ComponentModel.Annotations.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Interactive.Async.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\Microsoft.Data.Sqlite.xml
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\Microsoft.EntityFrameworkCore.xml
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\Microsoft.EntityFrameworkCore.Sqlite.xml
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\Microsoft.Extensions.Logging.xml
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\Microsoft.Extensions.Options.xml
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\Microsoft.Extensions.Primitives.xml
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\Newtonsoft.Json.xml
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\Remotion.Linq.xml
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Collections.Immutable.xml
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Interactive.Async.xml
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\obj\Release\PDTESTER.exe.config
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\obj\Release\ActionWindow\InputGripperManual.g.cs
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\obj\Release\ActionWindow\LeakAction.g.cs
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\obj\Release\ActionWindow\TVOCAction.g.cs
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\obj\Release\ActionWindow\NFCAction.g.cs
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\obj\Release\ActionWindow\PDAction.g.cs
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\obj\Release\Auto.g.cs
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\obj\Release\IOMonitor.g.cs
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\obj\Release\MainWindow.g.cs
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\obj\Release\Manual.g.cs
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\obj\Release\ManualWindow\NFCManual.g.cs
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\obj\Release\ManualWindow\PDManual.g.cs
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\obj\Release\ManualWindow\TVOCManual.g.cs
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\obj\Release\SerialSetting.g.cs
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\obj\Release\App.g.cs
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\obj\Release\PDTESTER_Content.g.cs
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\obj\Release\PDTESTER_MarkupCompile.cache
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\obj\Release\PDTESTER_MarkupCompile.lref
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\obj\Release\App.baml
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\obj\Release\ActionWindow\InputGripperManual.baml
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\obj\Release\ActionWindow\LeakAction.baml
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\obj\Release\ActionWindow\TVOCAction.baml
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\obj\Release\ActionWindow\NFCAction.baml
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\obj\Release\ActionWindow\PDAction.baml
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\obj\Release\Auto.baml
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\obj\Release\IOMonitor.baml
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\obj\Release\MainWindow.baml
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\obj\Release\Manual.baml
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\obj\Release\ManualWindow\NFCManual.baml
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\obj\Release\ManualWindow\PDManual.baml
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\obj\Release\ManualWindow\TVOCManual.baml
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\obj\Release\SerialSetting.baml
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\obj\Release\PDTESTER.g.resources
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\obj\Release\PDTESTER.Properties.Resources.resources
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\obj\Release\PDTESTER.csproj.GenerateResource.Cache
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\obj\Release\PDTESTER.csproj.CoreCompileInputs.cache
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\obj\Release\PDTESTER.TrustInfo.xml
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\obj\Release\PDTESTER.exe.manifest
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\obj\Release\PDTESTER.application
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\obj\Release\PDTESTER.exe
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\obj\Release\PDTESTER.pdb
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\obj\Release\PDTESTER.csprojResolveAssemblyReference.cache
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\obj\Release\ManualWindow\LEAKManual.g.cs
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\obj\Release\ManualWindow\LEAKManual.baml
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\obj\Release\ActionWindow\NFCBufferAction.g.cs
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\obj\Release\ActionWindow\Buffer01Action.g.cs
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\obj\Release\ActionWindow\NFCBufferAction.baml
+C:\Users\user\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTESTER\obj\Release\ActionWindow\Buffer01Action.baml
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\x86\e_sqlite3.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\x64\e_sqlite3.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\PDTESTER.exe.config
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\PDTESTER.exe.manifest
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\PDTESTER.application
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\PDTESTER.exe
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\PDTESTER.pdb
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\Microsoft.Win32.Primitives.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\netstandard.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.AppContext.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Collections.Concurrent.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Collections.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Collections.NonGeneric.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Collections.Specialized.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.ComponentModel.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.ComponentModel.EventBasedAsync.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.ComponentModel.Primitives.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.ComponentModel.TypeConverter.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Console.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Data.Common.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Diagnostics.Contracts.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Diagnostics.Debug.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Diagnostics.Process.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Diagnostics.StackTrace.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Diagnostics.Tools.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Diagnostics.TraceSource.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Diagnostics.Tracing.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Drawing.Primitives.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Dynamic.Runtime.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Globalization.Calendars.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Globalization.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Globalization.Extensions.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.IO.Compression.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.IO.Compression.ZipFile.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.IO.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.IO.FileSystem.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.IO.FileSystem.DriveInfo.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.IO.FileSystem.Watcher.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.IO.IsolatedStorage.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.IO.MemoryMappedFiles.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.IO.Pipes.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.IO.UnmanagedMemoryStream.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Linq.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Linq.Expressions.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Linq.Parallel.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Linq.Queryable.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Net.Http.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Net.NameResolution.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Net.NetworkInformation.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Net.Ping.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Net.Primitives.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Net.Requests.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Net.Security.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Net.Sockets.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Net.WebHeaderCollection.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Net.WebSockets.Client.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Net.WebSockets.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.ObjectModel.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Reflection.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Reflection.Extensions.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Reflection.Primitives.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Resources.Reader.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Resources.ResourceManager.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Resources.Writer.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Runtime.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Runtime.Extensions.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Runtime.Handles.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Runtime.InteropServices.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Runtime.Numerics.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Runtime.Serialization.Formatters.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Runtime.Serialization.Json.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Runtime.Serialization.Primitives.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Runtime.Serialization.Xml.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Security.Claims.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Security.Cryptography.Csp.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Security.Principal.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Security.SecureString.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Text.Encoding.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Text.Encoding.Extensions.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Text.RegularExpressions.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Threading.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Threading.Overlapped.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Threading.Tasks.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Threading.Tasks.Parallel.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Threading.Thread.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Threading.ThreadPool.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Threading.Timer.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.ValueTuple.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Xml.ReaderWriter.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Xml.XDocument.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Xml.XmlDocument.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Xml.XmlSerializer.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Xml.XPath.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Xml.XPath.XDocument.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\Microsoft.Data.Sqlite.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\Microsoft.Extensions.Logging.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\Microsoft.Extensions.Options.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\Newtonsoft.Json.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\Remotion.Linq.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\SQLitePCLRaw.batteries_green.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\SQLitePCLRaw.batteries_v2.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\SQLitePCLRaw.core.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Collections.Immutable.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.ComponentModel.Annotations.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Interactive.Async.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\Microsoft.Data.Sqlite.xml
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\Microsoft.EntityFrameworkCore.xml
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\Microsoft.EntityFrameworkCore.Sqlite.xml
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\Microsoft.Extensions.Logging.xml
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\Microsoft.Extensions.Options.xml
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\Microsoft.Extensions.Primitives.xml
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\Newtonsoft.Json.xml
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\Remotion.Linq.xml
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Collections.Immutable.xml
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Interactive.Async.xml
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\obj\Release\PDTESTER.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\obj\Release\PDTESTER.exe.config
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\obj\Release\ActionWindow\NFCBufferAction.g.cs
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\obj\Release\ActionWindow\InputGripperManual.g.cs
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\obj\Release\ActionWindow\LeakAction.g.cs
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\obj\Release\ActionWindow\Buffer01Action.g.cs
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\obj\Release\ActionWindow\TVOCAction.g.cs
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\obj\Release\ActionWindow\NFCAction.g.cs
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\obj\Release\ActionWindow\PDAction.g.cs
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\obj\Release\Auto.g.cs
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\obj\Release\IOMonitor.g.cs
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\obj\Release\MainWindow.g.cs
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\obj\Release\Manual.g.cs
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\obj\Release\ManualWindow\LEAKManual.g.cs
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\obj\Release\ManualWindow\NFCManual.g.cs
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\obj\Release\ManualWindow\PDManual.g.cs
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\obj\Release\ManualWindow\TVOCManual.g.cs
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\obj\Release\SerialSetting.g.cs
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\obj\Release\App.g.cs
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\obj\Release\PDTESTER_Content.g.cs
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\obj\Release\PDTESTER_MarkupCompile.cache
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\obj\Release\PDTESTER_MarkupCompile.lref
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\obj\Release\App.baml
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\obj\Release\ActionWindow\NFCBufferAction.baml
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\obj\Release\ActionWindow\InputGripperManual.baml
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\obj\Release\ActionWindow\LeakAction.baml
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\obj\Release\ActionWindow\Buffer01Action.baml
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\obj\Release\ActionWindow\TVOCAction.baml
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\obj\Release\ActionWindow\NFCAction.baml
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\obj\Release\ActionWindow\PDAction.baml
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\obj\Release\Auto.baml
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\obj\Release\IOMonitor.baml
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\obj\Release\MainWindow.baml
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\obj\Release\Manual.baml
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\obj\Release\ManualWindow\LEAKManual.baml
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\obj\Release\ManualWindow\NFCManual.baml
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\obj\Release\ManualWindow\PDManual.baml
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\obj\Release\ManualWindow\TVOCManual.baml
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\obj\Release\SerialSetting.baml
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\obj\Release\PDTESTER.g.resources
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\obj\Release\PDTESTER.Properties.Resources.resources
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\obj\Release\PDTESTER.csproj.GenerateResource.cache
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\obj\Release\PDTESTER.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\obj\Release\PDTESTER.TrustInfo.xml
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\obj\Release\PDTESTER.exe.manifest
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\obj\Release\PDTESTER.application
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\obj\Release\PDTESTER.csproj.CopyComplete
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\obj\Release\PDTESTER.exe
+C:\Users\user\Desktop\PD_TEST1.1 LOG NG\PDTESTER\obj\Release\PDTESTER.pdb
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\x86\e_sqlite3.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\x64\e_sqlite3.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\PDTESTER.exe.config
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\PDTESTER.exe.manifest
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\PDTESTER.application
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\PDTESTER.exe
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\PDTESTER.pdb
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\Microsoft.Win32.Primitives.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\netstandard.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.AppContext.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Collections.Concurrent.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Collections.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Collections.NonGeneric.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Collections.Specialized.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.ComponentModel.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.ComponentModel.EventBasedAsync.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.ComponentModel.Primitives.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.ComponentModel.TypeConverter.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Console.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Data.Common.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Diagnostics.Contracts.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Diagnostics.Debug.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Diagnostics.Process.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Diagnostics.StackTrace.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Diagnostics.Tools.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Diagnostics.TraceSource.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Diagnostics.Tracing.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Drawing.Primitives.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Dynamic.Runtime.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Globalization.Calendars.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Globalization.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Globalization.Extensions.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.IO.Compression.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.IO.Compression.ZipFile.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.IO.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.IO.FileSystem.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.IO.FileSystem.DriveInfo.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.IO.FileSystem.Primitives.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.IO.FileSystem.Watcher.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.IO.IsolatedStorage.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.IO.MemoryMappedFiles.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.IO.Pipes.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.IO.UnmanagedMemoryStream.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Linq.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Linq.Expressions.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Linq.Parallel.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Linq.Queryable.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Net.Http.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Net.NameResolution.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Net.NetworkInformation.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Net.Ping.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Net.Primitives.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Net.Requests.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Net.Security.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Net.Sockets.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Net.WebHeaderCollection.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Net.WebSockets.Client.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Net.WebSockets.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.ObjectModel.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Reflection.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Reflection.Extensions.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Reflection.Primitives.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Resources.Reader.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Resources.ResourceManager.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Resources.Writer.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Runtime.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Runtime.Extensions.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Runtime.Handles.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Runtime.InteropServices.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Runtime.Numerics.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Runtime.Serialization.Formatters.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Runtime.Serialization.Json.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Runtime.Serialization.Primitives.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Runtime.Serialization.Xml.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Security.Claims.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Security.Cryptography.Algorithms.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Security.Cryptography.Csp.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Security.Cryptography.Encoding.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Security.Cryptography.Primitives.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Security.Principal.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Security.SecureString.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Text.Encoding.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Text.Encoding.Extensions.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Text.RegularExpressions.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Threading.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Threading.Overlapped.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Threading.Tasks.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Threading.Tasks.Parallel.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Threading.Thread.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Threading.ThreadPool.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Threading.Timer.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.ValueTuple.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Xml.ReaderWriter.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Xml.XDocument.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Xml.XmlDocument.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Xml.XmlSerializer.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Xml.XPath.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Xml.XPath.XDocument.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\DGS.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\Microsoft.Data.Sqlite.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\Microsoft.EntityFrameworkCore.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\Microsoft.Extensions.Logging.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\Microsoft.Extensions.Options.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\Microsoft.Extensions.Primitives.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\Newtonsoft.Json.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\NFCCommunication.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\Remotion.Linq.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\SQLitePCLRaw.batteries_green.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\SQLitePCLRaw.batteries_v2.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\SQLitePCLRaw.core.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Collections.Immutable.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.ComponentModel.Annotations.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Interactive.Async.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\Microsoft.Data.Sqlite.xml
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\Microsoft.EntityFrameworkCore.xml
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\Microsoft.EntityFrameworkCore.Sqlite.xml
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\Microsoft.Extensions.Logging.xml
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\Microsoft.Extensions.Options.xml
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\Microsoft.Extensions.Primitives.xml
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\Newtonsoft.Json.xml
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\Remotion.Linq.xml
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Collections.Immutable.xml
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Interactive.Async.xml
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\obj\Release\PDTESTER.csprojResolveAssemblyReference.cache
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\obj\Release\PDTESTER.exe.config
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\obj\Release\ActionWindow\NFCBufferAction.g.cs
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\obj\Release\ActionWindow\InputGripperManual.g.cs
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\obj\Release\ActionWindow\LeakAction.g.cs
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\obj\Release\ActionWindow\Buffer01Action.g.cs
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\obj\Release\ActionWindow\TVOCAction.g.cs
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\obj\Release\ActionWindow\NFCAction.g.cs
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\obj\Release\ActionWindow\PDAction.g.cs
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\obj\Release\Auto.g.cs
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\obj\Release\IOMonitor.g.cs
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\obj\Release\MainWindow.g.cs
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\obj\Release\Manual.g.cs
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\obj\Release\ManualWindow\LEAKManual.g.cs
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\obj\Release\ManualWindow\NFCManual.g.cs
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\obj\Release\ManualWindow\PDManual.g.cs
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\obj\Release\ManualWindow\TVOCManual.g.cs
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\obj\Release\ManualWindow\SerialSetting.g.cs
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\obj\Release\App.g.cs
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\obj\Release\PDTESTER_Content.g.cs
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\obj\Release\PDTESTER_MarkupCompile.cache
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\obj\Release\PDTESTER_MarkupCompile.lref
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\obj\Release\App.baml
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\obj\Release\ActionWindow\NFCBufferAction.baml
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\obj\Release\ActionWindow\InputGripperManual.baml
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\obj\Release\ActionWindow\LeakAction.baml
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\obj\Release\ActionWindow\Buffer01Action.baml
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\obj\Release\ActionWindow\TVOCAction.baml
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\obj\Release\ActionWindow\NFCAction.baml
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\obj\Release\ActionWindow\PDAction.baml
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\obj\Release\Auto.baml
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\obj\Release\IOMonitor.baml
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\obj\Release\MainWindow.baml
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\obj\Release\Manual.baml
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\obj\Release\ManualWindow\LEAKManual.baml
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\obj\Release\ManualWindow\NFCManual.baml
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\obj\Release\ManualWindow\PDManual.baml
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\obj\Release\ManualWindow\TVOCManual.baml
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\obj\Release\ManualWindow\SerialSetting.baml
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\obj\Release\PDTESTER.g.resources
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\obj\Release\PDTESTER.Properties.Resources.resources
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\obj\Release\PDTESTER.csproj.GenerateResource.cache
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\obj\Release\PDTESTER.csproj.CoreCompileInputs.cache
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\obj\Release\PDTESTER.TrustInfo.xml
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\obj\Release\PDTESTER.exe.manifest
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\obj\Release\PDTESTER.application
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\obj\Release\PDTESTER.csproj.CopyComplete
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\obj\Release\PDTESTER.exe
+C:\Users\PD\Google Drive\2017\Tuan\Samsung\SEVT\MEG\PD_TEST1.1\PDTEST170418\PDTESTER\obj\Release\PDTESTER.pdb
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\x86\e_sqlite3.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\x64\e_sqlite3.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\PDTESTER.exe.config
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\PDTESTER.exe.manifest
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\PDTESTER.application
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\PDTESTER.exe
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\PDTESTER.pdb
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\Microsoft.Win32.Primitives.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\netstandard.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.AppContext.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Collections.Concurrent.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Collections.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Collections.NonGeneric.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Collections.Specialized.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.ComponentModel.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.ComponentModel.EventBasedAsync.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.ComponentModel.Primitives.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.ComponentModel.TypeConverter.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Console.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Data.Common.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Diagnostics.Contracts.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Diagnostics.Debug.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Diagnostics.FileVersionInfo.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Diagnostics.Process.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Diagnostics.StackTrace.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Diagnostics.TextWriterTraceListener.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Diagnostics.Tools.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Diagnostics.TraceSource.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Diagnostics.Tracing.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Drawing.Primitives.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Dynamic.Runtime.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Globalization.Calendars.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Globalization.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Globalization.Extensions.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.IO.Compression.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.IO.Compression.ZipFile.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.IO.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.IO.FileSystem.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.IO.FileSystem.DriveInfo.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.IO.FileSystem.Primitives.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.IO.FileSystem.Watcher.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.IO.IsolatedStorage.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.IO.MemoryMappedFiles.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.IO.Pipes.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.IO.UnmanagedMemoryStream.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Linq.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Linq.Expressions.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Linq.Parallel.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Linq.Queryable.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Net.Http.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Net.NameResolution.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Net.NetworkInformation.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Net.Ping.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Net.Primitives.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Net.Requests.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Net.Security.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Net.Sockets.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Net.WebHeaderCollection.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Net.WebSockets.Client.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Net.WebSockets.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.ObjectModel.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Reflection.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Reflection.Extensions.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Reflection.Primitives.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Resources.Reader.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Resources.ResourceManager.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Resources.Writer.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Runtime.CompilerServices.VisualC.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Runtime.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Runtime.Extensions.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Runtime.Handles.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Runtime.InteropServices.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Runtime.Numerics.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Runtime.Serialization.Formatters.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Runtime.Serialization.Json.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Runtime.Serialization.Primitives.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Runtime.Serialization.Xml.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Security.Claims.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Security.Cryptography.Algorithms.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Security.Cryptography.Csp.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Security.Cryptography.Encoding.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Security.Cryptography.Primitives.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Security.Cryptography.X509Certificates.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Security.Principal.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Security.SecureString.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Text.Encoding.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Text.Encoding.Extensions.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Text.RegularExpressions.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Threading.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Threading.Overlapped.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Threading.Tasks.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Threading.Tasks.Parallel.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Threading.Thread.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Threading.ThreadPool.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Threading.Timer.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.ValueTuple.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Xml.ReaderWriter.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Xml.XDocument.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Xml.XmlDocument.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Xml.XmlSerializer.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Xml.XPath.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Xml.XPath.XDocument.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\Microsoft.Data.Sqlite.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\Microsoft.EntityFrameworkCore.Design.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\Microsoft.EntityFrameworkCore.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\Microsoft.EntityFrameworkCore.Relational.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\Microsoft.EntityFrameworkCore.Sqlite.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\Microsoft.Extensions.Caching.Abstractions.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\Microsoft.Extensions.Caching.Memory.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\Microsoft.Extensions.Configuration.Abstractions.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\Microsoft.Extensions.DependencyInjection.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\Microsoft.Extensions.Logging.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\Microsoft.Extensions.Options.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\Microsoft.Extensions.Primitives.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\Newtonsoft.Json.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\PD_lib.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\Remotion.Linq.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\SQLitePCLRaw.batteries_green.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\SQLitePCLRaw.batteries_v2.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\SQLitePCLRaw.core.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\SQLitePCLRaw.provider.e_sqlite3.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Collections.Immutable.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.ComponentModel.Annotations.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Diagnostics.DiagnosticSource.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Interactive.Async.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\Microsoft.Data.Sqlite.xml
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\Microsoft.EntityFrameworkCore.xml
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\Microsoft.EntityFrameworkCore.Design.xml
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\Microsoft.EntityFrameworkCore.Relational.xml
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\Microsoft.EntityFrameworkCore.Sqlite.xml
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\Microsoft.Extensions.Caching.Abstractions.xml
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\Microsoft.Extensions.Caching.Memory.xml
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\Microsoft.Extensions.Configuration.Abstractions.xml
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\Microsoft.Extensions.DependencyInjection.xml
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\Microsoft.Extensions.Logging.xml
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\Microsoft.Extensions.Options.xml
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\Microsoft.Extensions.Primitives.xml
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\Newtonsoft.Json.xml
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\PD_lib.pdb
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\Remotion.Linq.xml
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Collections.Immutable.xml
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Diagnostics.DiagnosticSource.xml
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Interactive.Async.xml
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\obj\Release\PDTESTER.csprojResolveAssemblyReference.cache
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\obj\Release\PDTESTER.exe.config
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\obj\Release\ActionWindow\SIMAction.g.cs
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\obj\Release\ActionWindow\NFCBufferAction.g.cs
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\obj\Release\ActionWindow\InputGripperManual.g.cs
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\obj\Release\ActionWindow\LeakAction.g.cs
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\obj\Release\ActionWindow\Buffer01Action.g.cs
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\obj\Release\ActionWindow\TVOCAction.g.cs
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\obj\Release\ActionWindow\NFCAction.g.cs
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\obj\Release\ActionWindow\PDAction.g.cs
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\obj\Release\AlarmWindow.g.cs
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\obj\Release\Auto.g.cs
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\obj\Release\IOMonitor.g.cs
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\obj\Release\MainWindow.g.cs
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\obj\Release\Manual.g.cs
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\obj\Release\ManualWindow\FreeMode.g.cs
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\obj\Release\ManualWindow\LEAKManual.g.cs
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\obj\Release\ManualWindow\NFCManual.g.cs
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\obj\Release\ManualWindow\PDManual.g.cs
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\obj\Release\ManualWindow\TVOCManual.g.cs
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\obj\Release\ManualWindow\SerialSetting.g.cs
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\obj\Release\App.g.cs
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\obj\Release\PDTESTER_Content.g.cs
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\obj\Release\GeneratedInternalTypeHelper.g.cs
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\obj\Release\PDTESTER_MarkupCompile.cache
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\obj\Release\PDTESTER_MarkupCompile.lref
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\obj\Release\App.baml
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\obj\Release\ActionWindow\SIMAction.baml
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\obj\Release\ActionWindow\NFCBufferAction.baml
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\obj\Release\ActionWindow\InputGripperManual.baml
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\obj\Release\ActionWindow\LeakAction.baml
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\obj\Release\ActionWindow\Buffer01Action.baml
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\obj\Release\ActionWindow\TVOCAction.baml
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\obj\Release\ActionWindow\NFCAction.baml
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\obj\Release\ActionWindow\PDAction.baml
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\obj\Release\AlarmWindow.baml
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\obj\Release\Auto.baml
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\obj\Release\IOMonitor.baml
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\obj\Release\MainWindow.baml
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\obj\Release\Manual.baml
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\obj\Release\ManualWindow\FreeMode.baml
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\obj\Release\ManualWindow\LEAKManual.baml
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\obj\Release\ManualWindow\NFCManual.baml
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\obj\Release\ManualWindow\PDManual.baml
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\obj\Release\ManualWindow\TVOCManual.baml
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\obj\Release\ManualWindow\SerialSetting.baml
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\obj\Release\PDTESTER.g.resources
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\obj\Release\PDTESTER.Properties.Resources.resources
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\obj\Release\PDTESTER.csproj.GenerateResource.cache
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\obj\Release\PDTESTER.csproj.CoreCompileInputs.cache
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\obj\Release\PDTESTER.TrustInfo.xml
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\obj\Release\PDTESTER.exe.manifest
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\obj\Release\PDTESTER.application
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\obj\Release\PDTESTER.csproj.CopyComplete
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\obj\Release\PDTESTER.exe
+\\107.114.38.87\equip_data$\DATA\Shift HC\XTruong\PD\PD_S10_SIM_TEST_LINE26_FIXED\PDTEST260918\PDTESTER\obj\Release\PDTESTER.pdb
