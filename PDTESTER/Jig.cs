@@ -371,20 +371,20 @@ namespace PDTESTER
                             TestCancellationTokenSource.Cancel();
                 await SimLockObject.WaitAsync();
                 TestCancellationTokenSource = new CancellationTokenSource();
-                TestCancellationTokenSource.CancelAfter(60000);
+                TestCancellationTokenSource.CancelAfter(30000);
                 try
                 {
-                    NFCTest.NVResult = "T";
-                    SDCardTest.NVResult = "T";
+                    //NFCTest.NVResult = "T";
+                    //SDCardTest.NVResult = "T";
                     SIMTest.NVResult = "T";
                     Test_Step = 0;
                     RepackCount = 0;
                     NFC.NFC_OpenComand();
                     await Task.Delay(200);
-                    SDCardTest.NVResult = NFC.Get_NV(SDCardTest.NVNumber);
+                    //SDCardTest.NVResult = NFC.Get_NV(SDCardTest.NVNumber);
                     SIMTest.NVResult = NFC.Get_NV(SIMTest.NVNumber);
                     NFCTest.NVResult = NFC.Get_NV(NFCTest.NVNumber);
-                    if (SDCardTest.NVResult == "P" && SIMTest.NVResult == "P" && NFCTest.NVResult == "P")
+                    if (/*SDCardTest.NVResult == "P" && */SIMTest.NVResult == "P" && NFCTest.NVResult == "P")
                     {
                         Jig.TestResult = TestResult.PASS;
                         Jig.OKCounter++;
@@ -434,23 +434,21 @@ namespace PDTESTER
                         else if (Test_Step == 3)
                         {
                             NFC.GO_15MODE();
-                            // NFC.NFC_Closeport();
                             Test_Step = 4;
                         }
                         else if (Test_Step == 4)
                         {
-                            await Task.Delay(2000);
+                            await Task.Delay(1000);
                             // NFC = new NFC(COM);
                             // Thread.Sleep(500);
-                            SDCardTest.NVResult = NFC.Get_NV(SDCardTest.NVNumber);
+                            //SDCardTest.NVResult = NFC.Get_NV(SDCardTest.NVNumber);
                             SIMTest.NVResult = NFC.Get_NV(SIMTest.NVNumber);
                             NFCTest.NVResult = NFC.Get_NV(NFCTest.NVNumber);
-                            // NFC.NFC_Closeport();
                             Test_Step = 5;
                         }
                         else if (Test_Step == 5)
                         {
-                            if (SDCardTest.NVResult == "P" && SIMTest.NVResult == "P" && NFCTest.NVResult == "P")
+                            if (/*SDCardTest.NVResult == "P" &&*/ SIMTest.NVResult == "P" && NFCTest.NVResult == "P")
                             {
                                 Jig.TestResult = TestResult.PASS;
                                 await PackingPin.RST();

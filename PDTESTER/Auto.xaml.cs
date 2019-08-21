@@ -688,11 +688,13 @@ namespace PDTESTER
                                 {
                                     PDStep = 2;
                                 }
-                                else if ((IN.LOADING_01_CLAMP_SENSOR.PinValue == OFF && IN.LOADING_01_UNCLAMP_SENSOR.PinValue == OFF) && TestedPD != null)
+                                else
+                                if (IN.LOADING_01_CLAMP_SENSOR.PinValue == OFF && IN.LOADING_01_UNCLAMP_SENSOR.PinValue == OFF && ReadyPD != null)
                                     PDStep = 5;
-                                else if (IN.LOADING_01_CLAMP_SENSOR.PinValue == ON)
+                                else
+                                if (IN.LOADING_01_CLAMP_SENSOR.PinValue == ON || ReadyPD == null)
                                 {
-                                    PDProcessingStep = $"CV_PD STEP: {PDStep} - UNCLAMP {IN.LOADING_01_CLAMP_SENSOR.GPIOLabel} OFF";
+                                    PDRUN = false;
                                     await OUT.LOADING_01_CLAMP_SOL.RST();
                                     await OUT.LOADING_01_UNCLAMP_SOL.SET();
                                     await Task.Delay(500);
@@ -839,7 +841,6 @@ namespace PDTESTER
                         {
                             //Loop for TestJig
                             if (PD_Buf_Step == 0)
-                                // && AXIS_01_BUFFER.IsSetInJig == false && Axis._02.CurrentPos <= AXIS_02_TVOC.JigPos)
                                 if (PDBypass == false && IN.LOADING_01_UNCLAMP_SENSOR.PinValue == ON)
                                 {
                                     SIMJig ReadySIM = null;
@@ -885,8 +886,9 @@ namespace PDTESTER
                                 {
                                     await OUT.LOADING_01_CLAMP_SOL.RST();
                                     await OUT.LOADING_01_UNCLAMP_SOL.SET();
-                                    await Task.Delay(500);
+                                    PDRUN = false;
                                     AXIS_01_STEP = 0;
+                                    await Task.Delay(500);
                                 }
                             if (PD_Buf_Step == 1)
                             {
@@ -1538,6 +1540,7 @@ namespace PDTESTER
                                 else if (IN.LOADING_02_CLAMP_SENSOR.PinValue == ON)
                                 {
                                     Buff_SIM_Step = 0;
+                                    PDRUN = false;
                                     await OUT.LOADING_02_CLAMP_SOL.RST();
                                     await OUT.LOADING_02_UNCLAMP_SOL.SET();
                                     await Task.Delay(500);
@@ -1707,6 +1710,7 @@ namespace PDTESTER
                                 else if (IN.LOADING_02_CLAMP_SENSOR.PinValue == ON || TestedSIM == null)
                                 {
                                     Buff_SIM_Step = 0;
+                                    PDRUN = false;
                                     await OUT.LOADING_02_CLAMP_SOL.RST();
                                     await OUT.LOADING_02_UNCLAMP_SOL.SET();
                                     await Task.Delay(500);
@@ -2285,8 +2289,9 @@ namespace PDTESTER
                                         AXIS_04_BUFFER.JigDescription = AXIS_03_BUFFER.Jig.JigDescription;
                                     }
                                 }
-                                else if (IN.LOADING_04_UNCLAMP_SENSOR.PinValue == OFF &&
-                                         IN.LOADING_04_CLAMP_SENSOR.PinValue == OFF)
+                                else
+                                if (IN.LOADING_04_UNCLAMP_SENSOR.PinValue == OFF &&
+                                    IN.LOADING_04_CLAMP_SENSOR.PinValue == OFF)
                                 {
                                     ReadyLeak = null;
                                     foreach (LeakJig Leak in LEAKs)

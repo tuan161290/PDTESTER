@@ -247,14 +247,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="PDTESTER.exe" size="1078272">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="PDTESTER.exe" size="1077760">
       <assemblyIdentity name="PDTESTER" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>OtZ/t+z6kiSqQf3c85qWc041Q7hP6jW90jNBiIbRHoA=</dsig:DigestValue>
+        <dsig:DigestValue>4j21scEtAxbWNf2wT1e6se37g0032rZa0/KF69c0yGg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
